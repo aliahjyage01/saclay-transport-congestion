@@ -1,0 +1,29 @@
+# Figures régénérées à la racine par les scripts
+# (les versions retenues sont versionnées dans images/)
+/*.png
+
+# Sorties de simulation SUMO (regénérées par sumo-gui)
+sumo_network/tripinfos.xml
+sumo_network/stopinfos.xml
+sumo_network/stats.xml
+sumo_network/edgeData.xml
+
+# Environnements Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Fichiers lourds
+*.pkl
+*.joblib
+*.parquet
+
+# macOS / éditeurs
+.DS_Store
+.vscode/
+.idea/

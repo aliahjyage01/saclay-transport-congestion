@@ -1,0 +1,59 @@
+Warning: At actuated tlLogic 'GS_cluster_10281209121_1554791520_291866056_3964946974_#6more', linkIndex 25,26,27 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_10258031792_2279573271_5759558400_5759558401_#5more', actuated phase 4 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_11538313445_12595799067_5900554016_6284631682_#2more', linkIndex 35,36 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_4156424078_4156424079', linkIndex 11,12,13 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_12378987814_12569794398_12595799070_13316547757_#2more', linkIndex 20,21,22,23,24,25,26,36,37,38,39,40,41,42,44,45,46,47,48,49,50,60,61,62,63,64,65,66,67,73,74,75,76,78,79,80,81,82,88,89,90,91 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_cluster_11535269021_13341390416_6284655984_cluster_12375796868_12458710910_12458710911_12595799074_#4more', linkIndex 6,7,8 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_cluster_12006059541_1912873551_cluster_2287348309_244429614', actuated phase 0 has no controlling detector.
+Warning: At actuated tlLogic 'joinedS_cluster_12987847542_12987847544_7305991032_7565236356_cluster_12987847543_4826726296_7798568751_808862001', actuated phase 4 has no controlling detector.
+Warning: Vehicle '6_bus_4606:0' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '7_bus_4606:1' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '28_bus_199:1' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '41_bus_9111:1' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '43_bus_4606:3' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '48_bus_5154:0' is not allowed to stop on lane '332482982#2_0'.
+Warning: No connection between edge '20437767#4' and edge '1454780930#1' found.
+Warning: Vehicle '6_bus_4606:0' has no valid route from edge '20437767#4' to stop edge '1454780930#1'.
+Warning: Vehicle '6_bus_4606:0' is not allowed to stop on lane '332482982#2_0'.
+Warning: No connection between edge '219719294#2' and edge '1454780930#3' found.
+Warning: Vehicle '7_bus_4606:1' has no valid route from edge '219719294#2' to stop edge '1454780930#3'.
+Warning: Vehicle '7_bus_4606:1' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '28_bus_199:1' is not allowed to stop on lane '332482982#2_0'.
+Warning: No connection between edge '20437767#4' and edge '1454780930#1' found.
+Warning: Vehicle '12_bus_9105:0' has no valid route from edge '20437767#4' to stop edge '1454780930#1'.
+Warning: No connection between edge '219719294#2' and edge '1454780930#3' found.
+Warning: Vehicle '48_bus_5154:0' has no valid route from edge '219719294#2' to stop edge '1454780930#3'.
+Warning: Vehicle '48_bus_5154:0' is not allowed to stop on lane '332482982#2_0'.
+Warning: No connection between edge '219719294#2' and edge '1454780930#3' found.
+Warning: Vehicle '43_bus_4606:3' has no valid route from edge '219719294#2' to stop edge '1454780930#3'.
+Warning: Vehicle '43_bus_4606:3' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '41_bus_9111:1' is not allowed to stop on lane '332482982#2_0'.
+Warning: Vehicle '32_bus_4627:0' has no valid route from edge '219719294#2' to stop edge '1454780930#3'.
+Warning: Vehicle '33_bus_4627:1' has no valid route from edge '362262996' to stop edge '1454780930#1'.
+Warning: Teleporting vehicle '33_bus_4627:1'; waited too long (wrong lane, disconnected), lane='362262996_0', time=165.00.
+Warning: Vehicle '33_bus_4627:1' ends teleporting on edge '1454780930#1', time=165.00.
+Warning: Vehicle '68_train_TGV_733:0' has no valid route from edge '93869346' to stop edge '93869356'.
+Warning: Vehicle '68_train_TGV_733:0' has no valid route from edge '93869356' to stop edge '93869346'.
+Warning: Vehicle '68_train_TGV_733:0' has no valid route from edge '93869346' to stop edge '93869356'.
+Warning: No route for vehicle '68_train_TGV_733:0' found.
+Warning: Vehicle '83_bus_9105:1' has no valid route from edge '219719294#2' to stop edge '1454780930#3'.
+Warning: Vehicle '79_bus_9108:1' has no valid route from edge '219719294#2' to stop edge '1454780930#3'.
+Warning: Vehicle '80_bus_9108:2' has no valid route from edge '20437767#4' to stop edge '1454780930#1'.
+Warning: Teleporting vehicle '68_train_TGV_733:0'; waited too long (wrong lane, disconnected), lane='93869346_0', time=345.00.
+Warning: Vehicle '68_train_TGV_733:0' ends teleporting on edge '93869356', time=381.00.
+Warning: Teleporting vehicle '68_train_TGV_733:0'; waited too long (wrong lane, disconnected), lane='93869356_0', time=412.00.
+Warning: Vehicle '68_train_TGV_733:0' skips stop on lane '93869346_0' time=421.00.
+Warning: Vehicle '68_train_TGV_733:0' ends teleporting on edge '93869356', time=422.00.
+Warning: Teleporting vehicle '68_train_TGV_733:0'; waited too long (wrong lane, disconnected), lane='93869356_0', time=453.00.
+Warning: Vehicle '68_train_TGV_733:0' teleports beyond arrival edge '97788624#1', time=468.00.
+Warning: Teleporting vehicle '80_bus_9108:2'; waited too long (wrong lane, disconnected), lane='20437767#4_0', time=535.00.
+Warning: Vehicle '80_bus_9108:2' ends teleporting on edge '1454780930#1', time=535.00.
+Warning: Vehicle '6_bus_4606:0' ends teleporting on edge '1454780930#1', time=575.00.
+Warning: Vehicle '12_bus_9105:0' skips stop on lane '20437767#4_0' time=620.00.
+Warning: Teleporting vehicle '79_bus_9108:1'; waited too long (blocked, disconnected), lane='219719294#2_0', time=802.00.
+Warning: Vehicle '79_bus_9108:1' skips stop on lane '219719294#2_0' time=802.00.
+Warning: Vehicle '48_bus_5154:0' skips stop on lane '219719294#2_0' time=1502.00.
+Warning: 8 total messages of type: At actuated tlLogic '%', linkIndex % has no controlling detector.
+Warning: 14 total messages of type: No connection between edge '%' and edge '%' found.
+Warning: 12 total messages of type: Teleporting vehicle '%'; waited too long (wrong lane, disconnected), lane='%', time=%.
+Warning: 12 total messages of type: Vehicle '%' ends teleporting on edge '%', time=%.
